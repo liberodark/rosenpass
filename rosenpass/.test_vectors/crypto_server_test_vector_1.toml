@@ -34,152 +34,152 @@ offload = true
 entry_type = "Const"
 description = "pre-shared key"
 name = "psk"
-value = "HpzKswK7GXMRFNVx0mkbVOTBApFjL+lzpjfQlsHWAHA="
+value = "EJNqw93C5u+TAvaHFD/BC6gntfX0xnZ5fHFDNp71fv8="
 code_location = "tests/test_vector_crypto_server.rs:106"
 test_vec_set_code_location = "rosenpass/tests/test_vector_crypto_server.rs:33"
 
 [[entries]]
 entry_type = "Const"
 name = "CryptoServer::cookie_secrets[0]"
-value = "3hAsF7VJfzbcFNNynG6xiQ=="
+value = "ce3MPxFM857ZFA2nP4iruA=="
 code_location = "tests/test_vector_crypto_server.rs:168"
 test_vec_set_code_location = "rosenpass/tests/test_vector_crypto_server.rs:69"
 
 [[entries]]
 entry_type = "Const"
 name = "CryptoServer::cookie_secrets[1]"
-value = "Kw9H7AaYd/0MpJEL5A4k6A=="
+value = "UAIJTIVfyXGCDkkiyG46bA=="
 code_location = "tests/test_vector_crypto_server.rs:173"
 test_vec_set_code_location = "rosenpass/tests/test_vector_crypto_server.rs:69"
 
 [[entries]]
 entry_type = "Const"
 name = "CryptoServer::biscuit_keys[0]"
-value = "03icmzlBBeUeB/DGwjo6Tcu+hlwf6zn07JG91fWbZEQ="
+value = "UZn7Q/AW9fa9dBD25SoNgU7oBDE+odXMg+R7+6NAP/E="
 code_location = "tests/test_vector_crypto_server.rs:178"
 test_vec_set_code_location = "rosenpass/tests/test_vector_crypto_server.rs:69"
 
 [[entries]]
 entry_type = "Const"
 name = "CryptoServer::biscuit_keys[1]"
-value = "EsB+Q4yv4xS6ZU/O3f+d+OYkJEow7cm5MXHiKYdIlRw="
+value = "cD0Y2aZ6nTx72/cHd25G8E//+3T09y4jZalIoA9cbkA="
 code_location = "tests/test_vector_crypto_server.rs:180"
 test_vec_set_code_location = "rosenpass/tests/test_vector_crypto_server.rs:69"
 
 [[entries]]
 entry_type = "Const"
 name = "CryptoServer::cookie_secrets[0]"
-value = "pdB0oGCDoJGQDO/fSeQHRw=="
+value = "VkfFXQwwumYStVmW6c1CYQ=="
 code_location = "tests/test_vector_crypto_server.rs:168"
 test_vec_set_code_location = "rosenpass/tests/test_vector_crypto_server.rs:69"
 
 [[entries]]
 entry_type = "Const"
 name = "CryptoServer::cookie_secrets[1]"
-value = "g15TxPcof7F1WNXFbRVW1w=="
+value = "v2INCYkiVHyTyrL5cF/HbQ=="
 code_location = "tests/test_vector_crypto_server.rs:173"
 test_vec_set_code_location = "rosenpass/tests/test_vector_crypto_server.rs:69"
 
 [[entries]]
 entry_type = "Const"
 name = "CryptoServer::biscuit_keys[0]"
-value = "Mn5ymqEmZCM/aqbb3KbWllEp6xK6D48mgawYvNWcpTo="
+value = "cftOtL2wlVRRJJZrsIN02QFb9xx91RfXcl5zZNduDLY="
 code_location = "tests/test_vector_crypto_server.rs:178"
 test_vec_set_code_location = "rosenpass/tests/test_vector_crypto_server.rs:69"
 
 [[entries]]
 entry_type = "Const"
 name = "CryptoServer::biscuit_keys[1]"
-value = "9Ds8hJpuiRutPH1jeiMsheqgTdG/DkLeHjPGHVGd/t4="
+value = "ROv4mRyPEn14wH884Tm1v5eEJ1BpQL1uhRoy5V8wTNg="
 code_location = "tests/test_vector_crypto_server.rs:180"
 test_vec_set_code_location = "rosenpass/tests/test_vector_crypto_server.rs:69"
 
 [[entries]]
 entry_type = "Const"
 name = "hs.cookie_value.value"
-value = "l+aBifkwvKFx3hhwhtYuhQ=="
+value = "7pyX0akY1PgupWckmvyfkg=="
 code_location = "rosenpass/src/protocol/protocol.rs:3569"
 test_vec_set_code_location = "rosenpass/src/protocol/test_vector_sets.rs:44"
 
 [[entries]]
 entry_type = "Const"
 name = "hs.core.sidi"
-value = "QXKCmg=="
+value = "yaXJRA=="
 code_location = "rosenpass/src/protocol/protocol.rs:3582"
 test_vec_set_code_location = "rosenpass/src/protocol/test_vector_sets.rs:44"
 
 [[entries]]
 entry_type = "Const"
 name = "hs.eski"
-value = "Daet8SGz3gdsCHoyZ9N+4stAays3FVIIj1C0EpYVIeQ7T9aaQzkiZEW2XrhAxed1JIRDtZzM+GGb8rl+9YaHtfZG4BpuMaIEUlZrd/oCcMxwitByg9MKLwOysqlHMVtsqlEBeWzAWPkmu1g1snqDcprFq7nMU9G8AcOAbEfO4BCB5pbN1uqXFEZkV/cB6Blj8GAH0Zdi5sDPGigc45SikRgP9bxdVcqGWLVvkOyeNCuafzszZURMUVm9juwDUDqE69iz5IlDK2SzxMKW6wu/WgmhDthJ54hTAFiV4ubPaEBXEUdVYPMCU0Aa49i/MMw2uPSd9gTE/QI59Qgju3taCjGWpPJ2UygDVOJ2ZJifZqEgPCtK29AntnaE4JbF86cqy3YnPQe+3Wt4gMRjq8hMJNhHPYCuElcj2Iq7hqSyjezHlEwYXUvHNYSSONwtjDMSKMpWMxsj6WbHUjBNleCcnwCUxzpoEHl3wWBViDq+EiQyPdBSZLh/EUm1csuAWqowSJFhO2p4IDsYiuYlEGoER1afBIRXTNlQb1uhkmq5XtsunEgPQsGearpVbaS5BJhKNyKdCOxJGZcygutu1AvPTtssjRJp7Nu/hFWLRWR3m0dX+cxHG+MWEVpdDHGcTCcLCfhTOik4ZFCueOIZKtbNJ+N2O0S4oLA4ysLEWtZ3r8u11uAwWRMKSfyfjcIxNsCpNNuX8qY5RsqYIwDNXwaCBXM9B0aqcIxbtfKdCmJjygcP4XdlK0MSNXspbwFPQaWgvDnNCCkfNJpU48MXTvd1KTsHdWmAXkWMvGhp7gwmOedYUetnR+uTbbwCZ5gazydU5AOPfKU0EcMGthGu+ugfKGsg/tTJrnNW8KRe96d3DCosJ+AEqWiTbAU7AQO0VAwamDV5iuiUdRe3U9FDNMkeqeLE/stE6ewdZ4N2gxmmyyq6dVqjEOvCJsEr8kCOMuZ8DpOIzdKn7pzFR0hf//kPgIlNCFp8odWYcqqNZ/YUJ9g/xFKu1JmbrXaRFHt0x/Vajkxc56sL0/msinfPz8M7TTY01gmgf/kcOLFXfiZfqKQyUXJOVAREoDVvjaSuEYcX7Xw7M4iG5nwdVpJN0exhPkdR/iB0CgysmsnAjQwC18Q/PTLFQJM/FRiu6booLUhQKFVtpdFZj1Mi5GDAaXd23CIFMMoFjpcHmoYM8vhDaFG+TnOeWUIFZ/EnwHLGvfw74Dk8kieeK1wrkeqUIrSNbIVA0zTINliFfAsed2iEzZFtFQpaPxWcDqNFOnIndvolN/wWnACrKYI4mwim3ruDDyCFuNC3+Soe9UvELnMJF/d6QbiHziWu6TtPHuAi0YUUTNoslZsr56W7Aec7FZQjmNmy5ZVNBjNtxbIQ+kq1C4G+qSQm0JyZSwCxJlQf2EwZAgwr+cNF+assJNUsaFapEyxOInl7R3ADaKNzmadsRxzE/PTNwFyZJ1U98mu2GpyLhGCJRoNWsppalgEwSHwuskB0X1xEHTN7yCQQa4A9Hyqy8wBQ/uxhcByazMR1HyGalHCIxNevIxB0ArI+eKuVcZQSoEJ39qcPyjlrEmWFG1sFYfQpzzhts5HFuyWYvFM8wGXJ2fTATpyzrgSPE/MfSUgslxcRHJIJrMoJ+zoeQHCzuufECXOanTPAX9uOoHrIm6DPRKHPjIdaRWws/Zmp/Qk5VxV7ixB/28V3vkdUmFRS8FwPn4pfRRJNfaQn9CElsiZm+tMpEkx+KmAeA8hiOkYUj5GdzVsDEiU/6ztZc4cX+jC3Imk+2syjeaFQ6wGMkSqN2KdKKSOMe7Z9QSmrLFUhkNlIoaIdCykSXMlAMlpnJAB40OLPxxm+/XLNSuFllQcfAZNZU5tWIlg4IbFOewyVGwqGGSTJQvY6ccktu2BH/QK3oJYb5OcitYWtVwZTnUe1jFuTLTNln+QnSstc40MgU9yAXFpiklh75IZzrRkrEQtI7pQtu1kpxiZLmxcB8IiUs5kq9wi2MYoP4UmB1XCiyyw96ROoVeQmfQJU2nNaMhKe14kTbeZyJ1Srx6glaPfoDoN1VeUSGEkhrOzTHbxOc9HhcgyNwMT4yflDRoKLzvekcNX+kzsDgRu9EinCdrEg8Ga5sm2GArc0U8AweIPBvXmEwJ/++ctCMfUaQY/yw84HUoY1z3rxN/OxrK2G"
+value = "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"
 code_location = "rosenpass/src/protocol/protocol.rs:3589"
 test_vec_set_code_location = "rosenpass/src/protocol/test_vector_sets.rs:44"
 
 [[entries]]
 entry_type = "Const"
 name = "hs.core.ck"
-value = "jkxc56sL0/msinfPz8M7TTY01gmgf/kcOLFXfiZfqKQyUXJOVAREoDVvjaSuEYcX7Xw7M4iG5nwdVpJN0exhPkdR/iB0CgysmsnAjQwC18Q/PTLFQJM/FRiu6booLUhQKFVtpdFZj1Mi5GDAaXd23CIFMMoFjpcHmoYM8vhDaFG+TnOeWUIFZ/EnwHLGvfw74Dk8kieeK1wrkeqUIrSNbIVA0zTINliFfAsed2iEzZFtFQpaPxWcDqNFOnIndvolN/wWnACrKYI4mwim3ruDDyCFuNC3+Soe9UvELnMJF/d6QbiHziWu6TtPHuAi0YUUTNoslZsr56W7Aec7FZQjmNmy5ZVNBjNtxbIQ+kq1C4G+qSQm0JyZSwCxJlQf2EwZAgwr+cNF+assJNUsaFapEyxOInl7R3ADaKNzmadsRxzE/PTNwFyZJ1U98mu2GpyLhGCJRoNWsppalgEwSHwuskB0X1xEHTN7yCQQa4A9Hyqy8wBQ/uxhcByazMR1HyGalHCIxNevIxB0ArI+eKuVcZQSoEJ39qcPyjlrEmWFG1sFYfQpzzhts5HFuyWYvFM8wGXJ2fTATpyzrgSPE/MfSUgslxcRHJIJrMoJ+zoeQHCzuufECXOanTPAX9uOoHrIm6DPRKHPjIdaRWws/Zmp/Qk5VxV7ixB/28V3vkdUmFRS8FwPn4pfRRJNfaQn9CElsiZm+tMpEkx+KmAeA8hiOkYUj5GdzVsDEiU/6ztZc4cX+jC3Imk+2syjeaFQ6wGMkSqN2KdKKSOMe7Z9QSmrLFUhkNlIoaIdCykSXMlAMlpnJAB40OLPxxm+/XLNSuFllQcfAZNZU5tWIlg4IbFOewyVGwqGGSTJQvY6ccktu2BH/QK3oJYb5OcitYWtVwZTnUe1jFuTLTNln+QnSstc40MgU9yAXFpiklh75IZzrRkrEQtI7pQtu1kpxiZLmxcB8IiUs5kq9wi2MYoP4UmB1XCiyyw96ROoVeQmfQJU2nNaMhKe14kTbeZyJ1Srx6glaPfoDoN1VeUSGEkhrOzTHbxOc9HhcgyNwMT4yflDRoI="
+value = "iigIrth+WaBNFjaMaja/42WKorIzjMkejsqMP0gvW5xRwkRj6yvPRJAT3uzHDKdiG4MOPqAj3SyWnhJSpUqtt7CcRuqAnsSJRmcyC9UiL+JDC1PLylRjGPiKJbMSXXdEV5K+Tdoj+fKtlokM7uIevkc4srtSBZRQOHdE2/idIuJ2nBgXD4eaRqep4rGlDiwXRikFGTG/krwNePN6bPdQq8AO4/fDbKah9SaZZYi+rnbDYQlQodeNvziCaOYjTjRX6GFmIwdbfJS/EjAW0TALE4YJ89xv0xAz0ejFqeqZUbAejnCRdvqroQHAJCzKfWanI5lUDfUm4XdqP+WNxxmlHnScqvhYbAu2Tocpr6VM/GnLpMVdrYYMtYbLeoxt7IaSc/fHl4QQZuOGoCvDtBywsjF256wbKMNTStB8XpAsKLY/79KrzQaGrDEF98MEIQAkSxxTRzabauMJWwoOOam1gsoz+uBTavMdFwJNPVZPoVFMCONEAwyC5+QFZHCcvJQUrDatLYMquOpakPEdOzaw6jlWAzUZ3BHPJ3iK6pt5+ySx98h+jwZhTPR+0sOyfIkmvYzBCSKHQIYFJoQP8xkWBOpshRuWKpi4AyedzeU6CTxCVvuWFeClvXlZ+fBiM0yfcUbJo7U69Eo+bDQwj8Q+sIxy+hiJq3bLo7IFPZidSjBj+9MCyjBWdluC9GY0K4tgKsRdehWM6fIHUdQ+IXrFUrElY/KevwO0ipQTaAeUvtoJxNTBM8Y3QmpI25QbTounX/YdBEiRm4V4y+FsLPB2ILXCaMZZmMZwdWgur0ZpbQsOmxJ9U/GTsTSrl0E4laNNZtkb/MF2cnu4p5YRVMY8jkSCLZJ6WUsNGOi3WhJUHyVuPwqwKLRHW0NFa/kf1JoIVJxgzIZAjxszyQxu4FI0OwVooNfAoiWelKKJ6iR/f5tJ5IalQ7Ezppk18/ZCzLI/zzuiqhaPn+GcYTOIpRFeJdjCsteMP3omlDK4m4hzNtCRciSLj0Um2kaxPCu/yfpm5v1Z57H9EwLvVUrIaGth0StUi9JbxaK9NU/0xTqgo1U="
 code_location = "rosenpass/src/protocol/protocol.rs:3590"
 test_vec_set_code_location = "rosenpass/src/protocol/test_vector_sets.rs:44"
 
 [[entries]]
 entry_type = "Output"
 name = "hs.core.ck 1"
-value = "ANyglK92Pnah2o8s17KVv6jHYiM8XENdWUte4eTcphc="
+value = "8lW3ubw1hmOuhNXG+LVtv8gqZbMg8ol1pc58KLElNvo="
 code_location = "rosenpass/src/protocol/protocol.rs:3597"
 test_vec_set_code_location = "rosenpass/src/protocol/test_vector_sets.rs:44"
 
 [[entries]]
 entry_type = "Const"
-value = "vsajMkGfwRqoqTKqFLFoDNwohNrLXFoLz5WueWR3kEE="
+value = "g+Gj+xKDymKRwFHQ7QxeKBvOFHqdFMpGl8/E7Y3unXI="
 code_location = "rosenpass/src/protocol/protocol.rs:3272"
 test_vec_set_code_location = "rosenpass/src/protocol/test_vector_sets.rs:23"
 
 [[entries]]
 entry_type = "Const"
-value = "LSDvlDCT8Cd/YoX2YZCQh8drl8l85thyfHhz/fQUybftn25Yn4DxuvlD95EN0QXONeusNr2GuSeEFmt/v2iOWo7RFlcjMilLB4tjxuY6OWFvWYzmVsb+9WEVXwyWXiVq2H2mMOsZN+0p9at3An1wQ00iimTOSXis6f3CzKYv4WkxM2YEkmyKNMwPB7p5DeejaQCSdH5NkTxA0vJtbix5wAHb+e9KVvAZ6XFSmYg5hOOWvv7w/x7Xe2Tf3H8="
+value = "0l6iwITqljINZtw+1AoHIeXq0410zxgLXfdBBWTrBp7fSEEdgwXUG0WZpIpkDwbDwJ8SwuOik3BKpSwufCrCBqGxY2sGuQXZMl9auf5HvWE9dBGC1bbpOqS2yVbe01qBeNniUEMZnFvQeBR3ZlLQcPnLU2YkXeYdebcO3UoDVURNAjp04Lxg/go87DSrTm9l4lAhXibnLSfxWo0t"
 code_location = "rosenpass/src/protocol/protocol.rs:3273"
 test_vec_set_code_location = "rosenpass/src/protocol/test_vector_sets.rs:23"
 
 [[entries]]
 entry_type = "Output"
 name = "hs.core.ck 2"
-value = "n35rCDSBUCgzbe+UrBtsew/uIes+9e9xbeBBkuza8/Q="
+value = "w/bjqC8WZ4Y7QolT+5/uYfUyyJa9f8I3eFzpG7mMRio="
 code_location = "rosenpass/src/protocol/protocol.rs:3612"
 test_vec_set_code_location = "rosenpass/src/protocol/test_vector_sets.rs:44"
 
 [[entries]]
 entry_type = "Output"
 name = "ih.pidi_ct"
-value = "JMVHLTupGo6CHYNrAZADzqPE2vcvvGWOZ8kmsiejnR+QMGaCjmsP1OEKy/j0Benm"
+value = "GGB1xAzp549LaFw+p5rbata+O4xt1nOXQMfZx3BpVhkUBjEniGOyCJhFD7O2s0O1"
 code_location = "rosenpass/src/protocol/protocol.rs:3625"
 test_vec_set_code_location = "rosenpass/src/protocol/test_vector_sets.rs:44"
 
 [[entries]]
 entry_type = "Output"
 name = "hs.core.ck 3"
-value = "Qhky2gp3xzizdAjOhXCVBTQ0udqGnEQueYEHEHLOeNY="
+value = "HddoFgQ4rNdFTjkupbkIir1/v90yAAiAu71QhGn4irk="
 code_location = "rosenpass/src/protocol/protocol.rs:3626"
 test_vec_set_code_location = "rosenpass/src/protocol/test_vector_sets.rs:44"
 
 [[entries]]
 entry_type = "Output"
 name = "hs.core.ck 4"
-value = "qq7vQGveZNY8NvSir1Cig0ZpErAkwEGD9jq5XhCDHWQ="
+value = "AjXdYnwsNv42v2NwOGGMXjQY9qIlujaKM1+Ldl/2Ksc="
 code_location = "rosenpass/src/protocol/protocol.rs:3637"
 test_vec_set_code_location = "rosenpass/src/protocol/test_vector_sets.rs:44"
 
 [[entries]]
 entry_type = "Output"
 name = "ih.auth"
-value = "gCH9ZrD16I7E9KLUlYHlWg=="
+value = "4+o1W2OVG2WqcBkAMpIxFQ=="
 code_location = "rosenpass/src/protocol/protocol.rs:3646"
 test_vec_set_code_location = "rosenpass/src/protocol/test_vector_sets.rs:44"
 
 [[entries]]
 entry_type = "Output"
 name = "hs.core.ck 5"
-value = "wqLXpfoT4wE2Zmitl8xR8nSGob0PEbeBQ/RwkKbHeiI="
+value = "PK3f/LcMLKSajEN3wA1X8cFkuxzbfjJr1Ee6vLlUs4E="
 code_location = "rosenpass/src/protocol/protocol.rs:3647"
 test_vec_set_code_location = "rosenpass/src/protocol/test_vector_sets.rs:44"
 
@@ -194,93 +194,93 @@ offload = true
 [[entries]]
 entry_type = "Output"
 name = "chaining_key_ihr IHR 4"
-value = "ANyglK92Pnah2o8s17KVv6jHYiM8XENdWUte4eTcphc="
+value = "8lW3ubw1hmOuhNXG+LVtv8gqZbMg8ol1pc58KLElNvo="
 code_location = "rosenpass/src/protocol/protocol.rs:3704"
 test_vec_set_code_location = "rosenpass/src/protocol/test_vector_sets.rs:84"
 
 [[entries]]
 entry_type = "Output"
 name = "chaining_key_ihr IHR 5"
-value = "n35rCDSBUCgzbe+UrBtsew/uIes+9e9xbeBBkuza8/Q="
+value = "w/bjqC8WZ4Y7QolT+5/uYfUyyJa9f8I3eFzpG7mMRio="
 code_location = "rosenpass/src/protocol/protocol.rs:3713"
 test_vec_set_code_location = "rosenpass/src/protocol/test_vector_sets.rs:84"
 
 [[entries]]
 entry_type = "Output"
 name = "chaining_key_ihr IHR 6"
-value = "Qhky2gp3xzizdAjOhXCVBTQ0udqGnEQueYEHEHLOeNY="
+value = "HddoFgQ4rNdFTjkupbkIir1/v90yAAiAu71QhGn4irk="
 code_location = "rosenpass/src/protocol/protocol.rs:3725"
 test_vec_set_code_location = "rosenpass/src/protocol/test_vector_sets.rs:84"
 
 [[entries]]
 entry_type = "Output"
 name = "chaining_key_ihr IHR 7"
-value = "qq7vQGveZNY8NvSir1Cig0ZpErAkwEGD9jq5XhCDHWQ="
+value = "AjXdYnwsNv42v2NwOGGMXjQY9qIlujaKM1+Ldl/2Ksc="
 code_location = "rosenpass/src/protocol/protocol.rs:3735"
 test_vec_set_code_location = "rosenpass/src/protocol/test_vector_sets.rs:84"
 
 [[entries]]
 entry_type = "Output"
 name = "chaining_key_ihr IHR 8"
-value = "wqLXpfoT4wE2Zmitl8xR8nSGob0PEbeBQ/RwkKbHeiI="
+value = "PK3f/LcMLKSajEN3wA1X8cFkuxzbfjJr1Ee6vLlUs4E="
 code_location = "rosenpass/src/protocol/protocol.rs:3744"
 test_vec_set_code_location = "rosenpass/src/protocol/test_vector_sets.rs:84"
 
 [[entries]]
 entry_type = "Const"
 name = "session_id"
-value = "Mcs4cg=="
+value = "9M21Hw=="
 code_location = "rosenpass/src/protocol/protocol.rs:3752"
 test_vec_set_code_location = "rosenpass/src/protocol/test_vector_sets.rs:84"
 
 [[entries]]
 entry_type = "Output"
 name = "chaining_key_ihr RHR 3"
-value = "7yMWbSXZIe5fE2ZTed+mdZ2ohrrjXeZomUG5cFM1bAY="
+value = "IhXKatlgdcVbD8wFvBL5DidyAvR+75nDltSkH9Os73Y="
 code_location = "rosenpass/src/protocol/protocol.rs:3760"
 test_vec_set_code_location = "rosenpass/src/protocol/test_vector_sets.rs:84"
 
 [[entries]]
 entry_type = "Const"
-value = "oWCX4+9OFw0HfJvirAAtqyXmsZAh84QCdKO99MNxn3I="
+value = "HDo65DId7Pg001iuP0TNlRtOP5mSbll7W5qUbDwqrMM="
 code_location = "rosenpass/src/protocol/protocol.rs:3272"
 test_vec_set_code_location = "rosenpass/src/protocol/test_vector_sets.rs:23"
 
 [[entries]]
 entry_type = "Const"
-value = "2Lax1SI57cWfVUhDqHen5Gd9duJ1unvishxQ2m1ESFQ6t2efaqjPj2IUDZqtzDL4TjHOwcfwBeWH7rSwlRjztojJZWJ/MKkdJxo4zfImNVTKb5LqoP7GqEWhCtCuL/vakO9y3IWLX3jicp5V7/Riu4GZRkPlta35pXhCXmPKgMKOlAbq1meCGWo3lI9ou2jTkNOSxOgUIFxv0puQtii91Wlxc+jSQg5MMVTdmF/nlzpSK+FEefNWSfiOh2Xxtiz7wNbz3S3jA8ysdXumkPJbOpRJseovyTHDeWUeymDolv7+BFa9iaRWwJGz1TuydZTvtyuM4NTnABu74pH9iQjsj63ie1ju8MwqksCC/JNL+QMnqQamXFvzKZ0vBgdadgBaeF/CMm1Dbm9p26Sw/n7eFXrlnmHbqM6nwT0OtIZzhLFO84Sw0I3WOimVeNZ9D0zbb5n6t6Mb42dQLkr0GnK4UwcugHtsqmnrsB4UWUn/HL9hsYqtC0zyWg4nDdnPQYeKpobrESS1eGe0i/jceyzao48I9w3SJMyEe7vALbqtGjxo3nuhBeU0hJsi7ENFvhNT76LF/lehgBrFy81XK1O7Xg/vND2lEZJTFRAlZ68WNXr0F+ETGT4H+seTFyHujXtOPOQLAG6euWPZqEowbwB/gGV/iG5NkJrMUTC4Rx9mePEkjgTnCnv0ZuzvGYlgIueOn31gJYDrUk/nSEAo24IGqGsqwsLSf2VYv8wmY7Thm7n1MKYJS0HBSQb8F/b+7KOkaxrpLIO61mWlpC1uVGoD/qjpIw4pMLr1XFHgyEvkaZPUzFTFjWsvc/yp8jJAmSNn93i3PZ1SyRM1VCF+FCbDuIIOk6uU+ufpNABwsa584SKIrSlJgk1+NY3yzYYtZO9Aa5FUcihGpIjvwoeQq+eF8VttVvaztwgvpGCjoWiiOQtB5mKpuU5q9uDKsHq9EhLJa1/siwIcQXKwO1XGcmdKVG1WjLTXJHj5FbmeX9AcpRza0xW5D5ySf5yYiFiLzR+h"
+value = "oqhwo3RbjJm5e7Xd7zK3NFcC0fnCdvwkxdLp3bTSMpKIErRDYuJmOkiTBqtWa2piEKB/2cfMdFGVW0vLSapfOfSlYXkykhqAKLMXfinSe+3nqj5BuWB5e31nTAGIX4Ts8+luEUsdBFvUTvP0y664OhoNvIfWQllXdXOv1tubrq28gCd9P1NdXH2kGkd2eZZKsxuwG8VQuj3djBeqLp5d0F0B8629vkRJp/TQwwJQWUlw1bqePbn+0kuswEufsewiTK6AG6dCC56rJXMQt843yyxBW6M/EY97s94vdDXFwj/5yyP0cx0FH18LriuDZjr2/k2KgCBnC0bw+NxQ1dTRAoFlM5NIdzPReBKA9POGIi1NwN+0rBo/NF5mbtKROUosB/wbAntTWPbXr2HPpwSLi9Gj7PhaGpX9sAODnUXPBPFcnuBYQauIVpd+vpXR9sDxLZuCP0eiN/UuLYPP1adMYjyZ6AXb7ZLoLv0GfE3fhHNtiqQHXThBeVeHuVHo22R4T9SY8xCanvqTVH+PDqTCtiyBJJ3S5lkdeN0a0MpAUG91P6YPITAgD50nG37C2fsNX3YH81OJ18qCRo/Sy6T2YEXtuL1C7r4aMHUNV7zzV8QDndjkFmPuN2j8LA21PsvSVcD4q3qe+W1Mex9PjSoB5ez3HylqYlhVN7i6mjCw0eTp3VQbGwmcM7gNnTsY8GPI5ucX8ueFyzqd6xK6g2uOHgf2mkAMIWS5L8luHd0PgnDhUiWLNJw8/PW78PV+ktf5cFjavHv55l/7ZiyTUlplQRJt0NpkGS/7bC4vuJelpoxVn8MXhuxfB3iq+IEgicWDOgVPzWrWrvYVZuenr+R7XXARw5beFjan8bHctwUiRFcSadjCe6Wi+jxNq/85oNR5CwaPDRO//FTVCQd0Odd25kYC0VIRFYWWKOoa606BF+JTUcFIJB/iaU/DHK763dqeVqvzJDuRedzXwcRPi5Tu9VYSZvzhmgXVBREd1l103zfFSkkC+RAzK8ie8i8bjPdh"
 code_location = "rosenpass/src/protocol/protocol.rs:3273"
 test_vec_set_code_location = "rosenpass/src/protocol/test_vector_sets.rs:23"
 
 [[entries]]
 entry_type = "Output"
 name = "chaining_key_ihr RHR 4"
-value = "9Abzi5fhH8oPjxMIC4e9vWRiKpjMqKWw0CXRv6UDGqI="
+value = "zyoNBk2fB9ARACLdrIDD5XR8mPfXZUcXR+CoU2Oc3Vc="
 code_location = "rosenpass/src/protocol/protocol.rs:3775"
 test_vec_set_code_location = "rosenpass/src/protocol/test_vector_sets.rs:84"
 
 [[entries]]
 entry_type = "Const"
-value = "LvQgDUBiEIM2fNguegD58HaZHSr7AIZylcjRz+c01XA="
+value = "xL+BFE+qYDvJafdj+kuFHoZqQ8btLeuMgZHELlFJL2M="
 code_location = "rosenpass/src/protocol/protocol.rs:3272"
 test_vec_set_code_location = "rosenpass/src/protocol/test_vector_sets.rs:23"
 
 [[entries]]
 entry_type = "Const"
-value = "SbOKCKcoMulqTmiB5EPzx5mtnOXvbzJ46KmcVYb2bgII4gwCOw9beDARBfe1RKloc2xHA310ne8jlTWa27UM12828xMciKL0nt+SCy8hoX92mGTp+cdA0BUEBLSmB9Kn5nms6/PUUv7bdxBxdjoulBZfRXwbGMgaCLWljO3q9itqjvMcTL5iaN6CRJV4M6JoprEAdzbIXDfTLD8ZDxXpZvXXgCcopk4HQi5o15DL6iN84pPAmFt+Kqpwwnc="
+value = "wf0bCW6WkLH4YTCtOJFEeP6lL4QBYFWFJwuon00RFKcaX66Ef4x4uQAlXmabtQ2AMkKrLv9Bud60DE7fPQbgCiBAgIRFeRAS7EAqkysptTS7qRkd4CLk5uVYSITErQnskYSOP0/Ujl4jMaLhvqhu3FjyR5a0egd6P7tHs9e54oLiS+902JN19dG2REYIRUafrQ6zaRNDEkbPvUtr"
 code_location = "rosenpass/src/protocol/protocol.rs:3273"
 test_vec_set_code_location = "rosenpass/src/protocol/test_vector_sets.rs:23"
 
 [[entries]]
 entry_type = "Output"
 name = "chaining_key_ihr RHR 5"
-value = "2KXVrZ6Kk2+wi0iJ20I1UKNJ+cKPFRpuGOPzEc0OMBY="
+value = "ztAYYXbzV1BD4sBXpBrU+gjgrwbSvFwkprrQOyHFVF4="
 code_location = "rosenpass/src/protocol/protocol.rs:3790"
 test_vec_set_code_location = "rosenpass/src/protocol/test_vector_sets.rs:84"
 
 [[entries]]
 entry_type = "Output"
-value = "EFsT4OojPVLdqd9Mt5orDqYoH0uqWZGRe1duRmPfLiABAAAAAAAAAAAAAADYpdWtnoqTb7CLSInbQjVQo0n5wo8VGm4Y4/MRzQ4wFg=="
+value = "Reeg57RkhvO4tq64hAbrWmEFNcQ3zQtorxm9GgI4Xd4BAAAAAAAAAAAAAADO0BhhdvNXUEPiwFekGtT6COCvBtK8XCSmutA7IcVUXg=="
 code_location = "rosenpass/src/protocol/protocol.rs:3345"
 test_vec_set_code_location = "rosenpass/src/protocol/test_vector_sets.rs:31"
 
@@ -288,33 +288,33 @@ test_vec_set_code_location = "rosenpass/src/protocol/test_vector_sets.rs:31"
 entry_type = "Const"
 description = "Biscuit key after being cycled"
 name = "CryptoServer::biscuit_key[r]"
-value = "aYVS6QnJi45X1XuVLCODmGorUEG0paHA8se79EQbGvU="
+value = "7kWpH3fiugQBHYEwL4PiZFJOJVuan8+6/40fv5HxGSk="
 code_location = "rosenpass/src/protocol/protocol.rs:1442"
 test_vec_set_code_location = "rosenpass/src/protocol/test_vector_sets.rs:127"
 
 [[entries]]
 entry_type = "Const"
-value = "WsuMSv2Xb6ylG+4XaffpN5VgpkJsRfjI"
+value = "SV1uGWWe8hbJ89JcW77HxBM3JNhos1Bc"
 code_location = "rosenpass/src/protocol/protocol.rs:3362"
 test_vec_set_code_location = "rosenpass/src/protocol/test_vector_sets.rs:31"
 
 [[entries]]
 entry_type = "Output"
-value = "2suMSv2Xb6ylG+4XaffpN5VgpkJsRfjIr0m4q6cN1dZFb16n8TBpYzD0JJmqwVOYry9RH4B+OToN2u5uAe88EMKzH2u/Tkxo4IhZ24MVb9EfH1yssazL8KOqF4SS0x9kGW7HH1D2EusDohJ4DE9crHFsK8E="
+value = "yV1uGWWe8hbJ89JcW77HxBM3JNhos1BcKRXbxSfbhVVElCSeeesQTyGfCGGLMF64N/Tz1igfatzzvwrENIfeQjOR3OwIQddU8jWn9QJzW7gd7XCI73JJU928q/z1kCpH3TuuMoMyS/kAcK80i1Jvss6u8YE="
 code_location = "rosenpass/src/protocol/protocol.rs:3370"
 test_vec_set_code_location = "rosenpass/src/protocol/test_vector_sets.rs:31"
 
 [[entries]]
 entry_type = "Output"
 name = "chaining_key_ihr RHR 6"
-value = "K5lI4BZkuDYuloZODl4AknKct0U8BJVNIDvLibskADk="
+value = "K3MKTlYx20zh79F1l9ZaLgbSvhQDN3kKLVPgL6OIM1U="
 code_location = "rosenpass/src/protocol/protocol.rs:3799"
 test_vec_set_code_location = "rosenpass/src/protocol/test_vector_sets.rs:84"
 
 [[entries]]
 entry_type = "Output"
 name = "chaining_key_ihr RHR 7"
-value = "a52k/hon+HVXlAt08cL9J82B63RLkWxd+0PvF4g5bfM="
+value = "0tZjACKk+Lbk4U1ywpA7O0EpnKUcyo0RIp4NbVx7YgE="
 code_location = "rosenpass/src/protocol/protocol.rs:3808"
 test_vec_set_code_location = "rosenpass/src/protocol/test_vector_sets.rs:84"
 
@@ -346,6 +346,6 @@ offload = true
 entry_type = "Output"
 description = "final exchanged key"
 name = "exchanged_key"
-value = "TPBC02VC6Lxl+k2yr33S9TuWV9kzlr8aKq9Fy9UGbAU="
+value = "xS65LONDTW7RHCnmGo01SiWRSJuGQZ2RZG7mQzCgshY="
 code_location = "tests/test_vector_crypto_server.rs:154"
 test_vec_set_code_location = "rosenpass/tests/test_vector_crypto_server.rs:33"

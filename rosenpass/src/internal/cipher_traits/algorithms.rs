@@ -117,7 +117,7 @@ pub mod kem_classic_mceliece460896 {
     ///   - `δ` (keypair seed, 32 B) and `c` (column selections, 8 B) not stored in round 3
     ///   - This means that the key is still a valid round 3 key depsite `SK_LEN` looking like round 2
     /// - round 4: 13608
-    pub const SK_LEN: usize = 13568;
+    pub const SK_LEN: usize = 13608;
 
     /// The public key length used in [`KemClassicMceliece460896`].
     /// - round 3: 524160
@@ -127,14 +127,14 @@ pub mod kem_classic_mceliece460896 {
     /// The ciphertext length used in [`KemClassicMceliece460896`].
     /// - round 3: 188
     /// - round 4: 156
-    pub const CT_LEN: usize = 188;
+    pub const CT_LEN: usize = 156;
 
     /// The shared key length used in [`KemClassicMceliece460896`].
     /// - round 3: 32
     /// - round 4: 32 (same as round 3)
     pub const SHK_LEN: usize = 32;
 
-    /// A [`Kem`] that is `ClassicMceliece460896` (round 3)
+    /// A [`Kem`] that is `ClassicMceliece460896` (round 4)
     pub trait KemClassicMceliece460896: Kem<SK_LEN, PK_LEN, CT_LEN, SHK_LEN> {}
 }
 
